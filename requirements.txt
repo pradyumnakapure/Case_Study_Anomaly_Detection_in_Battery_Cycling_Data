@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.1
+scipy==1.14.1
+pyarrow==17.0.0  # For parquet file handling
+pytest==8.3.2
+sphinx==7.4.7
+apache-airflow==2.10.1
+mlflow==2.16.0
