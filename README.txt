@@ -1,5 +1,5 @@
 Data Science Case Study 2025 by Pradyumna Kapure
-Link of Case_Studey - https://onedrive.live.com/ redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy83YzU4Y2M3OGFjMzBiMmIxL0VsVlVSNUlLcmdsS3ZOdFFfN1JyZ3R3Qlh5THFlMTlsS2tQNlJuRFRzQzhPVUE%5FZT00amJsRnY&id=7C58CC78AC30B2B1%21s92475455ae0a4a09bcdb50ffb46b82dc&cid=7C58CC78AC30B2B1
+Link of Case_Studey - https://1drv.ms/f/c/7c58cc78ac30b2b1/ElVUR5IKrglKvNtQ_7RrgtwBXyLqe19lKkP6RnDTsC8OUA?e=4jblFv
 Problem Statement
 -----------------
 You are provided with a battery cell cycling dataset in parquet format, which contains anomalies at both the point and cycle levels. Your task is to:
